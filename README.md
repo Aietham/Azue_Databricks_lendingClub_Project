@@ -4,7 +4,7 @@
 This project processes the Lending Club dataset end-to-end on **Azure & Azure Databricks**, from raw ingestion to a consolidated **One Big Table (OBT)** and a final **Loan Score**.  
 Below are **tools & the exact steps** performed, organized by notebook execution order, including Azure setup and the Databricks objects used.
 
-Data File Download: [Link]([Open the project repo](https://drive.google.com/file/d/1xoy8Y0TFiKCz9S_NKWg4EYJnoHh2pbnN/view?usp=sharing) 
+Data File Download: [Link](https://drive.google.com/file/d/1xoy8Y0TFiKCz9S_NKWg4EYJnoHh2pbnN/view?usp=sharing) 
 
 ---
 ## Tools & Features
